@@ -6,12 +6,13 @@ namespace Employee_Management.IRepo
 {
 	public interface IEmployeeRepository
 	{
-		IEnumerable<EmployeeRTO> GetAllEmployees();
+		List<EmployeeRTO> GetAllEmployees();
 		EmployeeDTO CreateEmployee(EmployeeDTO employeeDto);
+		//EmployeeDTO GetEmployeeById(int id);
 
-		bool DeleteEmployee(int id);
+		//bool DeleteEmployee(int id);
 
-		EmployeeDTO UpdateEmployee(int id, EmployeeDTO employeeDto);
-		object GetEmployeeById(int id);
+		//EmployeeDTO UpdateEmployee(int id, EmployeeDTO employeeDto);
+		//object GetEmployeeById(int id);
 	}
 }

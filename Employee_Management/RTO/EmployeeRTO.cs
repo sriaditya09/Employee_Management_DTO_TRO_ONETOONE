@@ -9,6 +9,7 @@
 		public string? Company_Name { get; set; }
 		public string? Company_Address { get; set; }
 		public int Pincode {  get; set; }	
+		public int Salary_Amount { get; set; }
 
 		
 	}

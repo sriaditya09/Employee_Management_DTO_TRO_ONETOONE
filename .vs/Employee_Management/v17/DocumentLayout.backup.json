@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Employee_Management\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\data\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\data\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +15,40 @@
       "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\model\\entity\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\rto\\employeerto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\rto\\employeerto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\model\\entity\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\model\\entity\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\irepo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\irepo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\migrations\\20250124094208_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\migrations\\20250124094208_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\model\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\model\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\data\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\data\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\model\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\model\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\irepo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\irepo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\rto\\employeerto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\rto\\employeerto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|c:\\users\\hp\\source\\repos\\employee_management\\employee_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78984DF-B902-4F05-BFAE-D24264C63D48}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 124,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,26 +66,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Employee_Management\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:46:56.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee_Management\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:15:45.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "EmpDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Data\\EmpDbContext.cs",
               "RelativeDocumentMoniker": "Employee_Management\\Data\\EmpDbContext.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Data\\EmpDbContext.cs",
               "RelativeToolTip": "Employee_Management\\Data\\EmpDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T05:23:03.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Model\\Entity\\Company.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Model\\Entity\\Company.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Model\\Entity\\Company.cs",
+              "RelativeToolTip": "Employee_Management\\Model\\Entity\\Company.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:50:01.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Employees.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Model\\Entity\\Employees.cs",
               "RelativeDocumentMoniker": "Employee_Management\\Model\\Entity\\Employees.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Model\\Entity\\Employees.cs",
               "RelativeToolTip": "Employee_Management\\Model\\Entity\\Employees.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA6wBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T09:56:43.196Z",
               "EditorCaption": ""
@@ -77,80 +132,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\IRepo\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Employee_Management\\IRepo\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\IRepo\\IEmployeeRepository.cs",
-              "RelativeToolTip": "Employee_Management\\IRepo\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Model\\Entity\\Salary.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Model\\Entity\\Salary.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Model\\Entity\\Salary.cs",
+              "RelativeToolTip": "Employee_Management\\Model\\Entity\\Salary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:48:09.634Z",
+              "WhenOpened": "2025-01-23T08:01:58.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmpController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Controllers\\EmpController.cs",
-              "RelativeDocumentMoniker": "Employee_Management\\Controllers\\EmpController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Controllers\\EmpController.cs",
-              "RelativeToolTip": "Employee_Management\\Controllers\\EmpController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwB0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:46:56.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Repository\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Employee_Management\\Repository\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Repository\\EmployeeRepository.cs*",
-              "RelativeToolTip": "Employee_Management\\Repository\\EmployeeRepository.cs*",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T06:15:45.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeRTO.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\RTO\\EmployeeRTO.cs",
-              "RelativeDocumentMoniker": "Employee_Management\\RTO\\EmployeeRTO.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\RTO\\EmployeeRTO.cs",
-              "RelativeToolTip": "Employee_Management\\RTO\\EmployeeRTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T11:43:37.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EmployeeDTO.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\DTO\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "Employee_Management\\DTO\\EmployeeDTO.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\DTO\\EmployeeDTO.cs",
               "RelativeToolTip": "Employee_Management\\DTO\\EmployeeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T09:57:51.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Model\\Entity\\Company.cs",
-              "RelativeDocumentMoniker": "Employee_Management\\Model\\Entity\\Company.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Model\\Entity\\Company.cs",
-              "RelativeToolTip": "Employee_Management\\Model\\Entity\\Company.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20250124094208_update.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Migrations\\20250124094208_update.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Migrations\\20250124094208_update.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Migrations\\20250124094208_update.cs",
+              "RelativeToolTip": "Employee_Management\\Migrations\\20250124094208_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:50:01.09Z",
+              "WhenOpened": "2025-01-24T09:42:08.786Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\IRepo\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\IRepo\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\IRepo\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Employee_Management\\IRepo\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:48:09.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeRTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\RTO\\EmployeeRTO.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\RTO\\EmployeeRTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\RTO\\EmployeeRTO.cs",
+              "RelativeToolTip": "Employee_Management\\RTO\\EmployeeRTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:43:37.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee_Management\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\appsettings.json",
+              "RelativeToolTip": "Employee_Management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T05:38:12.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Employee_Management\\Employee_Management\\Program.cs",
+              "RelativeToolTip": "Employee_Management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:24:23.938Z"
             }
           ]
         }

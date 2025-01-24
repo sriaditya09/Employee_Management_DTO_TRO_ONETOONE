@@ -30,72 +30,77 @@ namespace Employee_Management.Controllers
 		}
 
 		// Get a specific employee by ID
-		[HttpGet("{id}")]
-		public IActionResult GetEmployee(int id)
-		{
-			var employees = employee.GetEmployeeById(id);
+		//[HttpGet("{id}")]
+		//public IActionResult GetEmployee(int id)
+		//{
+		//	var employees = employee.GetEmployeeById(id);
 
-			if (employee == null)
-			{
-				return NotFound();
-			}
-			return Ok(employees);
-		}
+		//	if (employee == null)
+		//	{
+		//		return NotFound();
+		//	}
+		//	return Ok(employees);
+		//}
 
 		[HttpPost]
 		public IActionResult CreateEmployee([FromBody] EmployeeDTO employeeDto)
 		{
-			
+
 
 			if (employeeDto == null)
 			{
 				return BadRequest("Employee data is required.");
-			}	
+			}
 
 			var createdEmployee = employee.CreateEmployee(employeeDto);
-			return CreatedAtAction(nameof(GetEmployee),
-			new { id = createdEmployee.CompanyId }, createdEmployee);
+			if (createdEmployee == null)
+			{
+				return StatusCode(500, "An error occurred while creating the employee.");
+			}
+			//return CreatedAtAction(nameof(GetEmployee),
+			//new { id = createdEmployee.EmployeeId }, createdEmployee);
+			return Ok("hello world");
 		}
 
 
 
-		[HttpDelete("{id}")]
-		public IActionResult DeleteEmployee(int id)
-		{
-			// Find the employee by ID
-			var employeeToDelete = employee.DeleteEmployee(id);
+		//[HttpDelete("{id}")]
+		//public IActionResult DeleteEmployee(int id)
+		//{
+		//	// Find the employee by ID
+		//	var employeeToDelete = employee.DeleteEmployee(id);
 
-			// If the employee doesn't exist, return a NotFound response
-			if (employeeToDelete == null)
-			{
-				return NotFound();
-			}
+		//	// If the employee doesn't exist, return a NotFound response
+		//	if (employeeToDelete == null)
+		//	{
+		//		return NotFound();
+		//	}
 
-			return Ok("everything is Deleted");
-		}
+		//	return Ok("everything is Deleted");
+		//}
 
-		[HttpPut("{id}")]
-		public IActionResult UpdateEmployee(int id, [FromBody] EmployeeDTO employeeDto)
-		{
-			if (employeeDto == null)
-			{
-				return BadRequest("Employee data is required.");
-			}
+		//[HttpPut("{id}")]
+		//public IActionResult UpdateEmployee(int id, [FromBody] EmployeeDTO employeeDto)
+		//{
+		//	if (employeeDto == null)
+		//	{
+		//		return BadRequest("Employee data is required.");
+		//	}
 
-			// Retrieve the existing employee and company
-			var existingEmployee = employee.GetEmployeeById(id);
+		//	// Retrieve the existing employee and company
+		//	var existingEmployee = employee.GetEmployeeById(id);
 
-			// If the employee doesn't exist, return a NotFound response
-			if (existingEmployee == null)
-			{
-				return NotFound();
-			}
+		//	// If the employee doesn't exist, return a NotFound response
+		//	if (existingEmployee == null)
+		//	{
+		//		return NotFound();
+		//	}
 
-			// Call the repository method to update the employee and their associated company
-			var updatedEmployee = employee.UpdateEmployee(id, employeeDto);
+		//	// Call the repository method to update the employee and their associated company
+		//	var updatedEmployee = employee.UpdateEmployee(id, employeeDto);
 
-			return Ok(updatedEmployee); // Return the updated employee information
-		}
+		//	return Ok(updatedEmployee); // Return the updated employee information
+		//}
 
 
 	}
